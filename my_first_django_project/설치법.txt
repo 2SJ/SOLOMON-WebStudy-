@@ -1,0 +1,14 @@
+python version 3.7.2
+django version 2.1.7
+
+
+
+가상환경 및 장고 설치
+https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/development_environment
+
+virtualenvwrapper-wi
+
+deactivate ? 활성화된 파이썬 가상 환경을 비활성화한다
+workon ? 사용가능한 가상 환경 목록을 보여준다
+workon name_of_environment ? 특정 파이썬 가상 환경을 활성화한다
+rmvirtualenv name_of_environment ? 특정 환경을 제거한다.
