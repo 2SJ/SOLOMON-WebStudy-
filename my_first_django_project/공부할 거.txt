@@ -1,15 +1,48 @@
-1. 일단 공부용으로 게시판 생성
-
-html은 중간중간 필요에 의해 검색으로
-
-데이터베이스 설계 및 생성
-읽기, 쓰기, 전시
-
-인덱싱 + 리스트 관리
+git URL : https://github.com/2SJ/SOLOMON-WebStudy-.git
 
 
+공부한 내용
+ - Hello World 로컬 웹서버에서 가져오도록 구현 127.0.0.1:8000
+ - Django 웹서버 개발환경 설치
+ - Django Framework Project 및 애플리케이션 구조 공부
 
+
+
+
+
+공부 아이디어
+
+# 일단 공부용으로 게시판 생성 #
+
+웹 클라이언트 단은 중간중간 필요에 의해 검색으로, 구글링으로만
+
+요구사항
+0. 데이터베이스 mysql, WebFramework Django	
+1. 데이터베이스 설계 및 생성
+2. 읽기, 쓰기, 전시 (DB 저장)
+3. 인덱싱 + 리스트 관리 (이 부분이 어려웠던걸로 기억 공부 후 구현)
+
+
+
+
+
+
+Django Framework Project 구조
+setting.py - 생성한 애플리케이션의 경로, 정적파일, 데이터베이스 설정 등이 저장됨.
+urls.py - url과 view 매핑 관련 정의
+ref : https://heiswed.tistory.com/entry/%EC%9E%A5%EA%B3%A0Django-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EA%B3%BC-%EA%B5%AC%EC%84%B1
+
+
+
+
+
+
+Django 프로젝트 구성
 https://wikidocs.net/6609
+
+
+
+
 
 
 
